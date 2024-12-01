@@ -1,5 +1,5 @@
-* {
-  margin: 0;
+*{
+  margin: o;
   padding: 0;
   box-sizing: border-box;
 }
@@ -219,12 +219,14 @@ footer p {
   border-radius: 20px;
   margin-bottom: 10%;
   background: linear-gradient(to right, white, gray);
+  
 
 }
 
 .name-item:hover{
   font-size: 3rem;
   position: relative;
+  
 
 }
 
@@ -245,6 +247,9 @@ footer p {
   width: 30px;
   height: 30px;
 }
+
+
+
 
 
 
